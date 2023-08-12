@@ -10,7 +10,7 @@ ASSESS_API_URL = "https://axisapi.onrender.com/Assess"
 SUBMIT_API_URL= "https://axisapi.onrender.com/submit"
 
 # Fixed job description
-FIXED_JOB_DESCRIPTION = "Senior Software Engineer"
+FIXED_JOB_DESCRIPTION = "Product Manager"
 
 # Function to get interview questions
 def get_interview_questions():
